@@ -1,11 +1,7 @@
 # Split-It-App
 
-<p align="left">
-  <img src="https://github.com/drkuster/Split-It-App/blob/master/Split%20It%20Screenshots/IMG_3784.PNG?raw=true">
-</p>
-
-<p align="right">
-  <img src="https://github.com/drkuster/Split-It-App/blob/master/Split%20It%20Screenshots/IMG_3786.PNG?raw=true">
+<p align="center">
+<img src="https://github.com/drkuster/Split-It-App/blob/master/Split%20It%20Screenshots/SplitIt.png?raw=true">
 </p>
 
 <p align="center">
