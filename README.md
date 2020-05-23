@@ -29,3 +29,5 @@ Here's where you enter your tip. You have a choice of 5, 10, 15 , 20 or a custom
 <p align="center">
 After putting in all the necessary info, Split It! displays how much each person owes.
 </p>
+
+--------------------------------------------------------------------------------------------------------------------------------------------

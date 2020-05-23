@@ -1,0 +1,7 @@
+platform :ios, '13.0'
+
+target 'Split It!' do
+  use_frameworks!
+  pod 'IQKeyboardManager'
+
+end
